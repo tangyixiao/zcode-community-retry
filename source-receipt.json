@@ -2,10 +2,33 @@
   "repo": "tangyixiao/zcode-community-retry",
   "sourceBranch": "main",
   "sourceCommit": "2767aaae333e890ac862d7b05138d81e9a4300ee",
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "南瓜橙与石墨色的机械重试继电器：一只可视的回路闸门作为首屏核心，旁边是清晰的可重试/终止状态说明，Keeper 作为独立侧装模块而非默认的一部分。事实边界：非官方主聊天 Retry 与独立可选 Keeper，不承诺任何错误都可重试，不宣称所有客户端迁移均已实测。",
+    "layout": "technical",
+    "palette": {
+      "light": {
+        "bg": "#F0D7BB",
+        "surface": "#FFF0DB",
+        "ink": "#4A2B1B",
+        "muted": "#785940",
+        "accent": "#9c481d"
+      },
+      "dark": {
+        "bg": "#281C15",
+        "surface": "#3B281B",
+        "ink": "#F9E7D0",
+        "muted": "#c2a182",
+        "accent": "#f6ac62"
+      }
+    },
+    "threeConcept": "Three.js 制作橙色搪瓷继电器、回转导轨和可拆 Keeper 小盒；终止挡块必须真实可见。按步运行一次回路即停，不无限转动，也不把动画当作成功请求。",
+    "distinctiveInteraction": "用户选择说明中的 retryable 或 terminal 示例，闸门分别回送或停止，并显示对应文档边界；Keeper 需独立切换才能装入，默认不暗示启用。"
+  },
   "media": [],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
