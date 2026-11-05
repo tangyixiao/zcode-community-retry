@@ -1,0 +1,18 @@
+{
+  "type": "design",
+  "designSystems": [],
+  "primaryDesignSystem": null,
+  "assets": {
+    "ZCode Community Retry": {
+      "versions": [
+        {
+          "path": "index.html",
+          "createdAt": "2026-11-05T13:19:38.397Z",
+          "status": "needs-review"
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-11-05T13:19:38.398Z",
+  "updatedAt": "2026-11-05T13:56:56.257Z"
+}
