@@ -19,7 +19,9 @@
     "commands",
     "marketplace.json",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "assets/logo.webp",
+    "assets/NOTICE.md"
   ],
   "repository": {
     "type": "git",
@@ -29,5 +31,6 @@
   "homepage": "https://github.com/tangyixiao/zcode-community-retry#readme",
   "bugs": {
     "url": "https://github.com/tangyixiao/zcode-community-retry/issues"
-  }
+  },
+  "icon": "./assets/logo.webp"
 }
