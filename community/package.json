@@ -20,7 +20,8 @@
     "marketplace.json",
     "README.md",
     "LICENSE",
-    "assets/logo.webp"
+    "assets/logo.webp",
+    "assets/NOTICE.md"
   ],
   "repository": {
     "type": "git",
