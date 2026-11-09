@@ -4,7 +4,7 @@
 
 <p align="center">在 ZCode 主聊天中重试受支持的暂时失败，可调间隔、遵守停止操作，并提供可选 Keeper。</p>
 
-<p align="center">[简体中文](README.md) · [English](README.en.md)</p>
+<p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a></p>
 
 [![Stars](https://img.shields.io/github/stars/tangyixiao/zcode-community-retry?style=flat)](https://github.com/tangyixiao/zcode-community-retry/stargazers) [![CI](https://img.shields.io/github/actions/workflow/status/tangyixiao/zcode-community-retry/test.yml?branch=main)](https://github.com/tangyixiao/zcode-community-retry/actions/workflows/test.yml) [![License](https://img.shields.io/github/license/tangyixiao/zcode-community-retry)](LICENSE)
 
