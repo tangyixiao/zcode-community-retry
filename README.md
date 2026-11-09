@@ -1,3 +1,5 @@
+<p><img src="assets/logo.webp" width="96" height="96" alt="zcode-community-retry logo"></p>
+
 # ZCode Community Retry
 
 ZCode 的非官方主聊天重试插件及可选的 Retry Keeper。

@@ -1,3 +1,5 @@
+<p><img src="assets/logo.webp" width="96" height="96" alt="ZCode Community Retry logo"></p>
+
 # ZCode Community Retry 0.3.3（非官方）
 
 在 ZCode 内安装、启用的主聊天无限重试插件。默认每 5 秒重试，可在插件设置调整间隔；持续重试可恢复错误，直到成功、手动停止或收到终止错误。使用原来的 ZCode 快捷方式打开应用。
