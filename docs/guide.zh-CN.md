@@ -12,7 +12,7 @@ ZCode 的非官方主聊天重试插件及可选的 Retry Keeper。
 
 `https://github.com/tangyixiao/zcode-community-retry`
 
-安装 `zcode-community-retry@tangyixiao-zcode-community`（当前 0.3.3）；可选 Keeper 及其配置见 [Keeper 说明](../keeper/README.md)。保持原市场名与插件 ID；已有用户请在插件市场将来源更新为本仓库，并确认更新后的版本和启用状态。迁移前请保存现有配置。不同 ZCode 客户端的来源切换与重复源行为尚未实机验证。
+安装 `zcode-community-retry@tangyixiao-zcode-community`（当前 0.3.4）；可选 Keeper 及其配置见 [Keeper 说明](../keeper/README.md)。保持原市场名与插件 ID；已有用户请在插件市场将来源更新为本仓库，并确认更新后的版本和启用状态。迁移前请保存现有配置。不同 ZCode 客户端的来源切换与重复源行为尚未实机验证。
 
 [安装、配置、重试边界和使用说明](../community/README.md) · [反馈问题](https://github.com/tangyixiao/zcode-community-retry/issues)
 
