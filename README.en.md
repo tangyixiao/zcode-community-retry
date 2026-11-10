@@ -28,7 +28,7 @@ Add this repository URL in ZCode Plugin Market, install `zcode-community-retry@t
 
 | Item | Current source of truth |
 | --- | --- |
-| Source version | `0.3.3` · 以 [package.json](package.json) 为准 |
+| Source version | `0.3.4` · 以 [package.json](package.json) 为准 |
 | Distribution | `native` · [Releases](https://github.com/tangyixiao/zcode-community-retry/releases) |
 | Node.js | `>=22` |
 | Development | [Open issues](https://github.com/tangyixiao/zcode-community-retry/issues?q=is%3Aissue+is%3Aopen) · [CI](https://github.com/tangyixiao/zcode-community-retry/actions) |
