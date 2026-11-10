@@ -1,8 +1,10 @@
-<p align="center"><img src="assets/logo.webp" width="128" height="128" alt="ZCode Community Retry logo"></p>
+<p align="center"><img src="assets/logo.webp" width="192" height="192" alt="ZCode Community Retry logo"></p>
 
 <h1 align="center">ZCode Community Retry</h1>
 
 <p align="center">在 ZCode 主聊天中重试受支持的暂时失败，可调间隔、遵守停止操作，并提供可选 Keeper。</p>
+
+<p align="center"><a href="https://github.com/tangyixiao/zcode-community-retry"><img src="docs/assets/banner-zh-CN.svg" width="100%" alt="ZCode Community Retry — 查看项目与使用说明"></a></p>
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a></p>
 
