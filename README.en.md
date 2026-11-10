@@ -1,8 +1,10 @@
-<p align="center"><img src="assets/logo.webp" width="128" height="128" alt="ZCode Community Retry logo"></p>
+<p align="center"><img src="assets/logo.webp" width="192" height="192" alt="ZCode Community Retry logo"></p>
 
 <h1 align="center">ZCode Community Retry</h1>
 
 <p align="center">Retry supported transient failures in ZCode main chat, with a configurable interval, cancellation and an optional Keeper.</p>
+
+<p align="center"><a href="https://github.com/tangyixiao/zcode-community-retry"><img src="docs/assets/banner-en.svg" width="100%" alt="ZCode Community Retry — Project and usage guide"></a></p>
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a></p>
 
