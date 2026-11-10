@@ -28,7 +28,7 @@ https://github.com/tangyixiao/zcode-community-retry
 
 | 项目 | 当前依据 |
 | --- | --- |
-| 源码版本 | `0.3.4` · 以 [package.json](package.json) 为准 |
+| 源码版本 | `0.3.5` · 以 [package.json](package.json) 为准 |
 | 分发方式 | `native` · [Releases](https://github.com/tangyixiao/zcode-community-retry/releases) |
 | Node.js | `>=22` |
 | 开发状态 | [Open issues](https://github.com/tangyixiao/zcode-community-retry/issues?q=is%3Aissue+is%3Aopen) · [CI](https://github.com/tangyixiao/zcode-community-retry/actions) |

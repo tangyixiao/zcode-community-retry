@@ -1,13 +1,13 @@
 <p><img src="assets/logo.webp" width="96" height="96" alt="ZCode Community Retry logo"></p>
 
-# ZCode Community Retry 0.3.4（非官方）
+# ZCode Community Retry 0.3.5（非官方）
 
 在 ZCode 内安装、启用的主聊天无限重试插件。默认每 5 秒重试，可在插件设置调整间隔；持续重试可恢复错误，直到成功、手动停止或收到终止错误。使用原来的 ZCode 快捷方式打开应用。
 
 ## 安装与使用
 
 1. 在 ZCode 的「插件市场 → 添加」中选择仓库根目录对应的市场；该市场包含 Retry 和可选的 Keeper 两个插件。
-2. 安装或更新 `zcode-community-retry@tangyixiao-zcode-community` 至 **0.3.4** 并在**用户范围**启用。如需自动强制启用，还需安装并启用 `zcode-retry-keeper@tangyixiao-zcode-community` **0.1.1**。Desktop 与 CLI 配置独立，需分别启用 Keeper。 Keeper 的宿主设置绑定及撤销边界见仓库 `keeper/README.md`。
+2. 安装或更新 `zcode-community-retry@tangyixiao-zcode-community` 至 **0.3.5** 并在**用户范围**启用。如需自动强制启用，还需安装并启用 `zcode-retry-keeper@tangyixiao-zcode-community` **0.1.1**。Desktop 与 CLI 配置独立，需分别启用 Keeper。 Keeper 的宿主设置绑定及撤销边界见仓库 `keeper/README.md`。
 3. 打开插件详情或配置，设置 **重试间隔（秒）**，例如 `10` 表示每 10 秒一次。保存后，下一轮重试读取新值；已经开始的等待会先完成。默认 5，范围 0–86400，允许小数。更长的服务端 `Retry-After` 仍会遵守。
 4. 打开新聊天，正常提交任务。遇到受支持的暂时失败，插件会保持当前请求并重试。点击 ZCode 的停止按钮可取消等待。
 5. 如需检查，在新聊天使用 `/retry-status`，让 Agent 调用 `retry_status`。核对 `desktopIntegration.active: true`、版本及 `currentAgentPid`。顶层 `active` 可能包括其他 Agent，不单独作为当前聊天已接入的依据。
