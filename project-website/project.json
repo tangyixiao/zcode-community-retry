@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "name": "zcode-community-retry",
+  "theme": "system",
+  "default_locale": "zh-CN",
+  "locales": [
+    {
+      "code": "zh-CN",
+      "label": "简体中文",
+      "directory": ""
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "directory": "en"
+    }
+  ],
+  "release": "zcode-community-retry",
+  "license_label": "GNU AGPL v3",
+  "links": {
+    "repository": "https://github.com/tangyixiao/zcode-community-retry",
+    "download": "https://github.com/tangyixiao/zcode-community-retry/blob/main/README.md",
+    "documentation": "https://github.com/tangyixiao/zcode-community-retry/blob/main/docs/guide.zh-CN.md",
+    "release": "https://github.com/tangyixiao/zcode-community-retry",
+    "license": "https://github.com/tangyixiao/zcode-community-retry/blob/main/LICENSE",
+    "report_issue": "https://github.com/tangyixiao/zcode-community-retry/issues",
+    "suggest_feature": "https://github.com/tangyixiao/zcode-community-retry/discussions",
+    "contribute": "https://github.com/tangyixiao/zcode-community-retry/pulls"
+  },
+  "copyright_notice": "Website template © 2026 Tang Yixiao and contributors",
+  "platforms": [
+    {
+      "name": "zcode-community-retry",
+      "href": "https://tangyixiao.github.io/zcode-community-retry/"
+    }
+  ],
+  "localized_links": {
+    "en": {
+      "download": "https://github.com/tangyixiao/zcode-community-retry/blob/main/README.en.md",
+      "documentation": "https://github.com/tangyixiao/zcode-community-retry/blob/main/README.en.md"
+    }
+  }
+}

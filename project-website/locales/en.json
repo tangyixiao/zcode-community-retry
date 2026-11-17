@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "Retry supported transient failures in the main ZCode chat while a response has yet to deliver content."
+  },
+  "pages": {
+    "home": {
+      "title": "Resume interrupted ZCode chats · {project}"
+    },
+    "features": {
+      "title": "Features · {project}",
+      "description": "Retry supported transient failures in the main ZCode chat while a response has yet to deliver content."
+    },
+    "download": {
+      "title": "Get started · {project}",
+      "description": "Select Add in the ZCode plugin market and paste this project’s GitHub repository URL."
+    },
+    "community": {
+      "title": "Community · {project}",
+      "description": "Find usage guidance, follow discussions and review changes to this project."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Get started",
+    "community": "Community"
+  },
+  "ui": {
+    "skip_link": "Skip to main content",
+    "navigation": "Main navigation",
+    "open_navigation": "Open navigation",
+    "close_navigation": "Close navigation",
+    "language": "Choose language",
+    "theme": "Choose theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "platforms": "Supported platforms",
+    "github": "GitHub",
+    "view_image": "View full illustration",
+    "feature_more": "Explore features",
+    "download": "See installation steps",
+    "release_notes": "Source repository",
+    "documentation": "Documentation",
+    "source": "Source repository",
+    "illustration": "First steps",
+    "license": "GNU AGPL v3"
+  },
+  "hero": {
+    "title": [
+      "Resume interrupted ZCode chats"
+    ],
+    "description": [
+      "Retry supported transient failures in the main ZCode chat while a response has yet to deliver content."
+    ],
+    "primary_action": "See installation steps",
+    "secondary_action": "Explore features"
+  },
+  "preview": {
+    "caption": "First steps",
+    "tabs": [
+      {
+        "label": "Get started",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "Add the marketplace",
+        "description": "Select Add in the ZCode plugin market and paste this project’s GitHub repository URL.",
+        "icon": "book"
+      },
+      {
+        "title": "Enable the plugin",
+        "description": "Install zcode-community-retry@tangyixiao-zcode-community, enable it for your user and start a new main chat.",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "Project features",
+    "groups": [
+      {
+        "title": "Timing and cancellation",
+        "description": "Retries honor a longer server Retry-After interval. A manual stop cancels the wait.",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "Check the current agent",
+        "description": "Use /retry-status in a new chat to inspect the active agent. Keeper can separately maintain the enabled state.",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "Get started · {project}",
+    "steps": [
+      {
+        "title": "Add the marketplace",
+        "description": "Select Add in the ZCode plugin market and paste this project’s GitHub repository URL.",
+        "icon": "book"
+      },
+      {
+        "title": "Enable the plugin",
+        "description": "Install zcode-community-retry@tangyixiao-zcode-community, enable it for your user and start a new main chat.",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "Community · {project}",
+    "description": "Find usage guidance, follow discussions and review changes to this project.",
+    "links": [
+      {
+        "label": "Help and feedback",
+        "description": "Browse existing reports or describe a reproducible problem.",
+        "icon": "book"
+      },
+      {
+        "label": "Join the discussion",
+        "description": "Read existing topics or share questions and ideas.",
+        "icon": "link"
+      },
+      {
+        "label": "Review changes",
+        "description": "Review open pull requests or prepare a contribution.",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}
