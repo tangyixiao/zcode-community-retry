@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "在 ZCode 主聊天尚未返回内容时，对受支持的暂时错误按设定间隔重试。"
+  },
+  "pages": {
+    "home": {
+      "title": "让短暂中断的 ZCode 对话接着走 · {project}"
+    },
+    "features": {
+      "title": "项目特点 · {project}",
+      "description": "在 ZCode 主聊天尚未返回内容时，对受支持的暂时错误按设定间隔重试。"
+    },
+    "download": {
+      "title": "开始使用 · {project}",
+      "description": "在 ZCode 插件市场选择添加，粘贴本项目的 GitHub 仓库地址。"
+    },
+    "community": {
+      "title": "参与项目 · {project}",
+      "description": "从这里找到使用说明、已有讨论和项目变更。"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "features": "项目特点",
+    "download": "开始使用",
+    "community": "参与项目"
+  },
+  "ui": {
+    "skip_link": "跳转到主要内容",
+    "navigation": "主导航",
+    "open_navigation": "打开导航",
+    "close_navigation": "关闭导航",
+    "language": "选择语言",
+    "theme": "选择主题",
+    "light": "浅色",
+    "dark": "深色",
+    "system": "跟随系统",
+    "platforms": "支持的平台",
+    "github": "GitHub",
+    "view_image": "查看完整演示图",
+    "feature_more": "查看详情",
+    "download": "查看安装方法",
+    "release_notes": "仓库源代码",
+    "documentation": "使用文档",
+    "source": "仓库源代码",
+    "illustration": "使用路径",
+    "license": "GNU AGPL v3"
+  },
+  "hero": {
+    "title": [
+      "让短暂中断的 ZCode 对话接着走"
+    ],
+    "description": [
+      "在 ZCode 主聊天尚未返回内容时，对受支持的暂时错误按设定间隔重试。"
+    ],
+    "primary_action": "查看安装方法",
+    "secondary_action": "查看详情"
+  },
+  "preview": {
+    "caption": "使用路径",
+    "tabs": [
+      {
+        "label": "开始使用",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "添加插件市场",
+        "description": "在 ZCode 插件市场选择添加，粘贴本项目的 GitHub 仓库地址。",
+        "icon": "book"
+      },
+      {
+        "title": "启用并核对",
+        "description": "安装 zcode-community-retry@tangyixiao-zcode-community，在用户范围启用后新开一轮主聊天。",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "项目特点",
+    "groups": [
+      {
+        "title": "等待与停止",
+        "description": "下次重试会遵守更长的 Retry-After。用户主动停止后等待随之终止。",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "从聊天检查状态",
+        "description": "新开聊天，用 /retry-status 核对当前 Agent 的状态。需要自动恢复启用状态时可单独设置 Keeper。",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "开始使用 · {project}",
+    "steps": [
+      {
+        "title": "添加插件市场",
+        "description": "在 ZCode 插件市场选择添加，粘贴本项目的 GitHub 仓库地址。",
+        "icon": "book"
+      },
+      {
+        "title": "启用并核对",
+        "description": "安装 zcode-community-retry@tangyixiao-zcode-community，在用户范围启用后新开一轮主聊天。",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "参与 · {project}",
+    "description": "从这里找到使用说明、已有讨论和项目变更。",
+    "links": [
+      {
+        "label": "帮助与反馈",
+        "description": "查看已报告的问题，或描述复现步骤。",
+        "icon": "book"
+      },
+      {
+        "label": "参与讨论",
+        "description": "查看已有话题，分享使用方法或改进建议。",
+        "icon": "link"
+      },
+      {
+        "label": "查看项目变更",
+        "description": "查看已有拉取请求或准备贡献。",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}
