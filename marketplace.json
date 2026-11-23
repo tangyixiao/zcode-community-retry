@@ -1,0 +1,26 @@
+{
+  "name": "tangyixiao-zcode-recovery-preview",
+  "owner": {
+    "name": "tangyixiao"
+  },
+  "description": "ZCode 会话恢复工具预览市场",
+  "plugins": [
+    {
+      "name": "zcode-retry-preview",
+      "source": "./retry",
+      "version": "0.4.0-preview.1",
+      "displayName": "Community Retry (Preview)",
+      "description": "手动从中断处继续。"
+    },
+    {
+      "name": "zcode-retry-keeper-preview",
+      "source": "./keeper",
+      "version": "0.2.0-preview.1",
+      "displayName": "Retry Keeper (Preview)",
+      "description": "为临时工具错误添加恢复提示。",
+      "dependencies": [
+        "zcode-retry-preview"
+      ]
+    }
+  ]
+}

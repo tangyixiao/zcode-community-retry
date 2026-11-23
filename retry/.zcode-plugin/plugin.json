@@ -1,0 +1,6 @@
+{
+  "name": "zcode-retry-preview",
+  "version": "0.4.0-preview.1",
+  "description": "在原聊天里手动接续中断的任务。",
+  "license": "AGPL-3.0-only"
+}

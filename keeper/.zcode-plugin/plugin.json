@@ -1,0 +1,9 @@
+{
+  "name": "zcode-retry-keeper-preview",
+  "version": "0.2.0-preview.1",
+  "description": "工具遇到临时网络故障时，为当前会话提供恢复提示。",
+  "license": "AGPL-3.0-only",
+  "dependencies": [
+    "zcode-retry-preview"
+  ]
+}
